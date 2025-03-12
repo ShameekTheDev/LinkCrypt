@@ -27,7 +27,7 @@ Check out the live demo: <a href="https://linkcrypt.vercel.app/" target="_blank"
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-repo.git
+   git clone https://github.com/ShameekTheDev/LinkCrypt.git
    ```
 2. Open `index.html` in your browser.
 
