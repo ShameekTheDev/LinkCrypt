@@ -1,5 +1,5 @@
 # <p align="center">
-    <img src="your-logo-url-here" alt="Project Logo" width="200">
+    <img src="[your-logo-url-here](https://linkcrypt.vercel.app/src/img/logo.png)" alt="Project Logo" width="200">
 </p>
 
 # 🔥 Project Title
