@@ -2,7 +2,7 @@
     <img src="https://linkcrypt.vercel.app/src/img/logo.png" alt="Project Logo" width="300">
 </p>
 
-# 🔥 Project Title
+# 🔥 LinkCrypt
 
 A powerful and intuitive tool for encoding and decoding text using custom character mappings.
 
