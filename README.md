@@ -52,5 +52,5 @@ This project is licensed under the **MIT License**.
 - 💾 Save encoded messages
 
 ---
-<p align="center">💙 Made with passion by [Your Name]</p>
+<p align="center">💙 Made with passion by SHAMEEK BISWAS</p>
 
