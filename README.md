@@ -21,7 +21,7 @@ A powerful and intuitive tool for encoding and decoding text using custom charac
 
 ## 🎬 Demo
 
-Check out the live demo: [Live Demo]((https://linkcrypt.vercel.app/))
+Check out the live demo: <a href="https://linkcrypt.vercel.app/">[Live Demo]</a>
 
 ## 📥 Installation
 
